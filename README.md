@@ -389,21 +389,24 @@ Monthly revenue and MoM growth should be tracked regularly to identify:
 brazilian-ecommerce-sales-analysis/
 │
 ├── README.md
+├── LICENSE
+├── .gitignore
 │
-├── data/
-│   └── cleaned_ecommerce_data.csv
-│
-├── python/
-│   └── ecommerce_eda.ipynb
+├── notebooks/
+│   └── brazilian_ecommerce_analysis.ipynb
 │
 ├── sql/
 │   └── ecommerce_analysis.sql
 │
 ├── powerbi/
-│   └── ecommerce_sales_dashboard.pbix
+│   └── brazilian_ecommerce_dashboard.pbix
 │
-├── dashboard/
-│   └── sales_dashboard.png
+├── images/
+│   ├── olist_dashboard.png
+│   ├── sales_analysis.png
+│   └── customer_analysis.png
 │
-└── reports/
-    └── ecommerce_analysis_report.pdf
+└── data/
+    └── README.md
+
+The large raw Olist dataset is intentionally excluded from the repository because of GitHub file-size limitations.
