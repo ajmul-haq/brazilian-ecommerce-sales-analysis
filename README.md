@@ -169,7 +169,9 @@ The final Power BI dashboard provides an interactive overview of sales performan
 
 ### Dashboard Preview
 
-![Sales Dashboard](dashboard/sales_dashboard.png)
+!## 📊 Power BI Dashboard
+
+![Brazilian E-commerce Power BI Dashboard](Images/Sales_dashboard.png)
 
 ---
 
