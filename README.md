@@ -154,7 +154,7 @@ The final Power BI dashboard provides an interactive overview of sales performan
 
 ### Dashboard Features
 
-- Year filter
+- Year, Month & State filters
 - Total Revenue KPI
 - Total Orders KPI
 - Average Order Value KPI
